@@ -1,2 +1,30 @@
-# Drip-Zone
-Site de uma loja de roupas desenvolvido durante meus estudos de HTML e CSS.
+# 👕 Zona de Gotejamento
+
+Site de uma loja de roupas desenvolvido durante meus estudos de **HTML e CSS**.
+
+O projeto foi criado com o objetivo de praticar estruturação de páginas, estilização e organização de conteúdo para web.
+
+## 🚀 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+## 💻 Sobre o projeto
+
+A **Zona de Gotejamento** simula uma loja virtual de roupas, apresentando produtos e uma interface desenvolvida para praticar conceitos de desenvolvimento web.
+
+## 🎯 Objetivos do projeto
+
+- Praticar HTML semântico
+- Aprimorar conhecimentos em CSS
+- Trabalhar com organização de layouts
+- Praticar responsividade
+- Desenvolver projetos para portfólio
+
+## 🌐 Acessar o projeto
+
+🔗 **Site:** coloque-aqui-o-link-do-GitHub-Pages
+
+## 📚 Status
+
+✅ Projeto concluído para fins de estudo.
