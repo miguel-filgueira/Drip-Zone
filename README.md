@@ -23,7 +23,7 @@ A **Zona de Gotejamento** simula uma loja virtual de roupas, apresentando produt
 
 ## 🌐 Acesse o projeto
 
-🔗 [Clique aqui para visualizar o site](https://miguel-filgueira.github.io/Zona-de-gotejamento/)
+🔗 [Clique aqui para visualizar o site](https://miguel-filgueira.github.io/Drip-Zone/)
 
 ## 📚 Status
 
