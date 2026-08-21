@@ -21,9 +21,9 @@ A **Zona de Gotejamento** simula uma loja virtual de roupas, apresentando produt
 - Praticar responsividade
 - Desenvolver projetos para portfólio
 
-## 🌐 Acessar o projeto
+## 🌐 Acesse o projeto
 
-🔗 **Site:** coloque-aqui-o-link-do-GitHub-Pages
+🔗 [Clique aqui para visualizar o site](https://miguel-filgueira.github.io/Zona-de-gotejamento/)
 
 ## 📚 Status
 
